@@ -159,6 +159,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-04-16 20:37:53 +0000"
+    },
+    "done": true
+  },
   "infernalexp:recipes/food/cooked_hogchop_smelting": {
     "criteria": {
       "has_hogchop": "2025-04-16 10:39:47 +0000"
@@ -228,6 +234,12 @@
   "ironchest:recipes/ironchest/chests/diamond_obsidian_chest": {
     "criteria": {
       "has_obsidian": "2025-04-16 20:10:05 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2025-04-16 20:37:53 +0000"
     },
     "done": true
   },
@@ -309,6 +321,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/shaped_water_bottle": {
+    "criteria": {
+      "has_water": "2025-04-16 20:36:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2025-04-16 20:07:45 +0000"
@@ -384,6 +402,12 @@
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2025-04-16 20:13:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-04-16 20:36:59 +0000"
     },
     "done": true
   },
@@ -645,6 +669,12 @@
   "byg:biomepedia_gift": {
     "criteria": {
       "tick": "2025-04-15 18:47:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-04-16 20:37:53 +0000"
     },
     "done": true
   },
