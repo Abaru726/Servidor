@@ -1,13 +1,13 @@
 {
-  "infernalexp:recipes/food/cooked_hogchop_smelting": {
+  "securitycraft:recipes/securitycraft/reinforced_crimson_fence": {
     "criteria": {
-      "has_hogchop": "2025-04-16 10:39:47 +0000"
+      "has_stick": "2025-04-16 13:12:02 +0000"
     },
     "done": true
   },
-  "farmersdelight:main/root": {
+  "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
-      "seeds": "2025-04-16 10:39:47 +0000"
+      "has_stick": "2025-04-16 13:12:02 +0000"
     },
     "done": true
   },
@@ -17,78 +17,33 @@
     },
     "done": true
   },
-  "tombstone:adventure/root": {
-    "criteria": {
-      "auto": "2025-04-16 10:39:48 +0000"
-    },
-    "done": true
-  },
-  "infernalexp:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_silt": "2025-04-16 10:39:47 +0000"
-    },
-    "done": true
-  },
-  "infernalexp:recipes/food/cooked_hogchop_smoking": {
-    "criteria": {
-      "has_hogchop": "2025-04-16 10:39:47 +0000"
-    },
-    "done": true
-  },
-  "paraglider:recipes/paraglider/cosmetic/deku_leaf": {
-    "criteria": {
-      "has_paragliders": "2025-04-15 18:57:53 +0000"
-    },
-    "done": true
-  },
   "infernalexp:recipes/food/cooked_hogchop_campfire": {
     "criteria": {
       "has_hogchop": "2025-04-16 10:39:47 +0000"
     },
     "done": true
   },
-  "dungeons_arise:wda_root": {
+  "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
-      "WDA": "2025-04-16 10:39:48 +0000"
+      "has_stone": "2025-04-16 20:13:05 +0000"
     },
     "done": true
   },
-  "byg:root": {
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
-      "tick": "2025-04-15 18:47:51 +0000"
+      "has_stone": "2025-04-16 20:13:05 +0000"
     },
     "done": true
   },
-  "infernalexp:recipes/combat/glowsilk_bow": {
+  "securitycraft:recipes/securitycraft/reinforced_spruce_fence": {
     "criteria": {
-      "has_glowsilk": "2025-04-16 10:39:47 +0000"
+      "has_stick": "2025-04-16 13:12:02 +0000"
     },
     "done": true
   },
-  "infernalexp:recipes/redstone/polished_basalt_pressure_plate": {
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
-      "has_polished_basalt": "2025-04-16 10:39:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:frozen_river": "2025-04-15 18:48:38 +0000",
-      "minecraft:wooded_badlands": "2025-04-16 12:46:41 +0000",
-      "minecraft:bamboo_jungle": "2025-04-16 12:46:32 +0000",
-      "minecraft:river": "2025-04-16 12:47:05 +0000",
-      "minecraft:snowy_plains": "2025-04-13 09:47:10 +0000",
-      "minecraft:stony_shore": "2025-04-16 10:40:37 +0000",
-      "minecraft:snowy_taiga": "2025-04-15 18:48:06 +0000",
-      "minecraft:grove": "2025-04-15 18:48:21 +0000",
-      "minecraft:frozen_ocean": "2025-04-15 18:48:42 +0000",
-      "minecraft:frozen_peaks": "2025-04-15 18:48:32 +0000"
-    },
-    "done": false
-  },
-  "infernalexp:recipes/redstone/smooth_dullstone_button": {
-    "criteria": {
-      "has_smooth_dullstone": "2025-04-16 10:39:47 +0000"
+      "has_sandstone": "2025-04-16 20:07:45 +0000"
     },
     "done": true
   },
@@ -98,15 +53,193 @@
     },
     "done": true
   },
-  "betteranimalsplus:bad_fox": {
+  "minecraft:recipes/decorations/campfire": {
     "criteria": {
-      "no_bam": "2025-04-16 10:39:55 +0000"
+      "has_stick": "2025-04-16 13:12:02 +0000"
     },
-    "done": false
+    "done": true
   },
-  "infernalexp:recipes/food/cured_jerky": {
+  "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
-      "has_soul_salt_clump": "2025-04-16 10:39:47 +0000"
+      "has_stone": "2025-04-16 20:13:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-04-16 13:12:02 +0000"
+    },
+    "done": true
+  },
+  "infernalexp:recipes/food/blindsight_tounge_stew": {
+    "criteria": {
+      "has_tongue": "2025-04-16 10:39:47 +0000",
+      "has_crimson_fungus": "2025-04-16 10:39:47 +0000",
+      "has_warped_fungus": "2025-04-16 10:39:47 +0000",
+      "has_bowl": "2025-04-16 10:39:47 +0000",
+      "has_luminous_fungus": "2025-04-16 10:39:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-04-16 20:03:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-16 20:13:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-16 20:13:05 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/paraglider/cosmetic/paraglider": {
+    "criteria": {
+      "has_paragliders": "2025-04-15 18:57:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-04-16 13:12:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2025-04-16 19:49:24 +0000"
+    },
+    "done": true
+  },
+  "infernalexp:recipes/combat/blindsight_tongue_whip": {
+    "criteria": {
+      "has_molten_gold_cluster": "2025-04-16 10:39:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-04-16 20:13:05 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location0": "2025-04-16 13:29:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-16 20:13:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_birch_fence": {
+    "criteria": {
+      "has_stick": "2025-04-16 13:12:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-04-16 12:49:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_oak_fence": {
+    "criteria": {
+      "has_stick": "2025-04-16 13:12:02 +0000"
+    },
+    "done": true
+  },
+  "infernalexp:recipes/food/cooked_hogchop_smelting": {
+    "criteria": {
+      "has_hogchop": "2025-04-16 10:39:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-04-16 20:10:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-04-16 13:12:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_jungle_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-04-16 13:12:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-04-16 10:39:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_dark_oak_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-04-16 13:12:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-04-16 20:07:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-04-16 13:12:02 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/lattice": {
+    "criteria": {
+      "has_stick": "2025-04-16 13:12:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-16 20:07:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_acacia_fence": {
+    "criteria": {
+      "has_stick": "2025-04-16 13:12:02 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2025-04-16 20:10:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-04-16 20:07:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-16 20:07:45 +0000"
     },
     "done": true
   },
@@ -122,19 +255,210 @@
     },
     "done": true
   },
-  "infernalexp:recipes/food/blindsight_tounge_stew": {
+  "dungeons_arise:find_monasteries": {
     "criteria": {
-      "has_tongue": "2025-04-16 10:39:47 +0000",
-      "has_crimson_fungus": "2025-04-16 10:39:47 +0000",
-      "has_warped_fungus": "2025-04-16 10:39:47 +0000",
-      "has_bowl": "2025-04-16 10:39:47 +0000",
-      "has_luminous_fungus": "2025-04-16 10:39:47 +0000"
+      "location0": "2025-04-16 20:05:34 +0000"
     },
     "done": true
   },
-  "orcz:orczchallenge": {
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
-      "orczchallenge": "2025-04-16 10:39:48 +0000"
+      "has_sandstone": "2025-04-16 20:07:45 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/paraglider/paraglider": {
+    "criteria": {
+      "has_stick": "2025-04-16 13:12:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-04-16 20:13:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2025-04-16 13:12:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-16 20:07:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_spruce_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-04-16 13:12:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-16 20:10:05 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_house": {
+    "criteria": {
+      "location0": "2025-04-16 20:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-04-16 20:07:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-04-16 20:07:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-16 20:13:05 +0000"
+    },
+    "done": true
+  },
+  "infernalexp:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_silt": "2025-04-16 10:39:47 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_windmill": {
+    "criteria": {
+      "location0": "2025-04-16 13:06:11 +0000"
+    },
+    "done": true
+  },
+  "infernalexp:recipes/food/cooked_hogchop_smoking": {
+    "criteria": {
+      "has_hogchop": "2025-04-16 10:39:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_crimson_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-04-16 13:12:02 +0000"
+    },
+    "done": true
+  },
+  "byg:root": {
+    "criteria": {
+      "tick": "2025-04-15 18:47:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_birch_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-04-16 13:12:02 +0000"
+    },
+    "done": true
+  },
+  "infernalexp:recipes/combat/glowsilk_bow": {
+    "criteria": {
+      "has_glowsilk": "2025-04-16 10:39:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/flint_knife": {
+    "criteria": {
+      "has_stick": "2025-04-16 13:12:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_acacia_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-04-16 13:12:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-04-16 20:13:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-04-16 13:07:58 +0000",
+      "minecraft:taiga": "2025-04-16 13:05:15 +0000",
+      "minecraft:eroded_badlands": "2025-04-16 13:22:55 +0000",
+      "minecraft:frozen_river": "2025-04-15 18:48:38 +0000",
+      "minecraft:birch_forest": "2025-04-16 12:53:36 +0000",
+      "minecraft:windswept_hills": "2025-04-16 20:12:45 +0000",
+      "minecraft:wooded_badlands": "2025-04-16 12:46:41 +0000",
+      "minecraft:bamboo_jungle": "2025-04-16 12:46:32 +0000",
+      "minecraft:badlands": "2025-04-16 13:15:10 +0000",
+      "minecraft:beach": "2025-04-16 13:06:23 +0000",
+      "minecraft:stony_peaks": "2025-04-16 12:52:43 +0000",
+      "minecraft:sparse_jungle": "2025-04-16 13:21:44 +0000",
+      "minecraft:lukewarm_ocean": "2025-04-16 13:26:07 +0000",
+      "minecraft:river": "2025-04-16 12:47:05 +0000",
+      "minecraft:snowy_plains": "2025-04-13 09:47:10 +0000",
+      "minecraft:stony_shore": "2025-04-16 10:40:37 +0000",
+      "minecraft:snowy_taiga": "2025-04-15 18:48:06 +0000",
+      "minecraft:dripstone_caves": "2025-04-16 12:54:27 +0000",
+      "minecraft:grove": "2025-04-15 18:48:21 +0000",
+      "minecraft:swamp": "2025-04-16 20:12:54 +0000",
+      "minecraft:cold_ocean": "2025-04-16 13:04:52 +0000",
+      "minecraft:forest": "2025-04-16 12:53:47 +0000",
+      "minecraft:lush_caves": "2025-04-16 13:05:26 +0000",
+      "minecraft:frozen_ocean": "2025-04-15 18:48:42 +0000",
+      "minecraft:desert": "2025-04-16 12:50:18 +0000",
+      "minecraft:windswept_forest": "2025-04-16 19:57:55 +0000",
+      "minecraft:ocean": "2025-04-16 13:28:49 +0000",
+      "minecraft:jungle": "2025-04-16 12:52:23 +0000",
+      "minecraft:warm_ocean": "2025-04-16 13:22:16 +0000",
+      "minecraft:frozen_peaks": "2025-04-15 18:48:32 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-16 12:53:29 +0000",
+      "minecraft:meadow": "2025-04-16 12:57:05 +0000",
+      "minecraft:savanna": "2025-04-16 13:12:31 +0000",
+      "minecraft:plains": "2025-04-16 12:54:10 +0000"
+    },
+    "done": false
+  },
+  "infernalexp:recipes/redstone/smooth_dullstone_button": {
+    "criteria": {
+      "has_smooth_dullstone": "2025-04-16 10:39:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_jungle_fence": {
+    "criteria": {
+      "has_stick": "2025-04-16 13:12:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-16 19:48:37 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2025-04-16 13:26:32 +0000"
+    },
+    "done": true
+  },
+  "infernalexp:recipes/food/cured_jerky": {
+    "criteria": {
+      "has_soul_salt_clump": "2025-04-16 10:39:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-04-16 13:12:02 +0000"
     },
     "done": true
   },
@@ -144,21 +468,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-04-16 12:49:56 +0000"
+    },
+    "done": true
+  },
   "paraglider:paraglider": {
     "criteria": {
       "paraglider": "2025-04-15 18:57:53 +0000"
     },
     "done": true
   },
-  "paraglider:recipes/paraglider/cosmetic/paraglider": {
+  "securitycraft:recipes/securitycraft/reinforced_warped_fence": {
     "criteria": {
-      "has_paragliders": "2025-04-15 18:57:53 +0000"
+      "has_stick": "2025-04-16 13:12:02 +0000"
     },
     "done": true
   },
-  "byg:biomepedia_gift": {
+  "securitycraft:recipes/securitycraft/sonic_security_system": {
     "criteria": {
-      "tick": "2025-04-15 18:47:51 +0000"
+      "has_stick": "2025-04-16 13:12:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-04-16 20:10:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-04-16 12:49:56 +0000"
     },
     "done": true
   },
@@ -168,21 +510,27 @@
     },
     "done": true
   },
-  "whisperwoods:recipes/whisperwoods/hand_of_fate": {
+  "farmersdelight:recipes/farmersdelight/cutting_board": {
     "criteria": {
-      "has_blaze_powder": "2025-04-16 10:39:47 +0000"
+      "has_stick": "2025-04-16 13:12:02 +0000"
     },
     "done": true
   },
-  "infernalexp:recipes/combat/blindsight_tongue_whip": {
+  "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
-      "has_molten_gold_cluster": "2025-04-16 10:39:47 +0000"
+      "has_stone": "2025-04-16 20:13:05 +0000"
     },
     "done": true
   },
-  "infernalexp:recipes/redstone/soul_slate_pressure_plate": {
+  "securitycraft:recipes/securitycraft/motion_activated_light": {
     "criteria": {
-      "has_soul_slate": "2025-04-16 10:39:47 +0000"
+      "has_stick": "2025-04-16 13:12:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-04-16 12:49:56 +0000"
     },
     "done": true
   },
@@ -195,6 +543,156 @@
   "infernalexp:recipes/redstone/smooth_dimstone_button": {
     "criteria": {
       "has_smooth_dimstone": "2025-04-16 10:39:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-16 20:13:05 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/stone_pillar": {
+    "criteria": {
+      "has_stone": "2025-04-16 20:13:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-04-16 10:39:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-16 20:13:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-04-16 12:49:56 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/paraglider/cosmetic/deku_leaf": {
+    "criteria": {
+      "has_paragliders": "2025-04-15 18:57:53 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-04-16 10:39:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_oak_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-04-16 13:12:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-04-16 20:13:05 +0000"
+    },
+    "done": true
+  },
+  "infernalexp:recipes/redstone/polished_basalt_pressure_plate": {
+    "criteria": {
+      "has_polished_basalt": "2025-04-16 10:39:47 +0000"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_taiga": "2025-04-16 12:56:00 +0000"
+    },
+    "done": true
+  },
+  "betteranimalsplus:bad_fox": {
+    "criteria": {
+      "no_bam": "2025-04-16 10:39:55 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-04-16 20:07:45 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_infested_temple_map": {
+    "criteria": {
+      "find_map": "2025-04-16 20:05:36 +0000"
+    },
+    "done": true
+  },
+  "orcz:orczchallenge": {
+    "criteria": {
+      "orczchallenge": "2025-04-16 10:39:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_warped_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-04-16 13:12:02 +0000"
+    },
+    "done": true
+  },
+  "byg:biomepedia_gift": {
+    "criteria": {
+      "tick": "2025-04-15 18:47:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-04-16 12:49:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2025-04-16 13:12:02 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:monuments": {
+    "criteria": {
+      "in_monument_desert": "2025-04-16 20:07:42 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "way_sign": "2025-04-16 12:50:04 +0000"
+    },
+    "done": true
+  },
+  "whisperwoods:recipes/whisperwoods/hand_of_fate": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-16 10:39:47 +0000"
+    },
+    "done": true
+  },
+  "infernalexp:recipes/redstone/soul_slate_pressure_plate": {
+    "criteria": {
+      "has_soul_slate": "2025-04-16 10:39:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-16 20:07:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_dark_oak_fence": {
+    "criteria": {
+      "has_stick": "2025-04-16 13:12:02 +0000"
     },
     "done": true
   },
