@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framed_slab_edge": {
+    "criteria": {
+      "hasFramedSlab": "2025-04-16 20:49:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-04-16 13:12:02 +0000"
@@ -102,6 +108,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/rocky_dirt": {
     "criteria": {
       "has_dirt": "2025-04-16 20:39:22 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_floor_board": {
+    "criteria": {
+      "hasFramedSlab": "2025-04-16 20:49:34 +0000"
     },
     "done": true
   },
@@ -357,6 +369,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framed_sloped_stairs": {
+    "criteria": {
+      "hasFramedSlab": "2025-04-16 20:49:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-16 20:13:05 +0000"
@@ -408,6 +426,12 @@
   "farmersdelight:recipes/farmersdelight/flint_knife": {
     "criteria": {
       "has_stick": "2025-04-16 13:12:02 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_trapdoor": {
+    "criteria": {
+      "hasFramedSlab": "2025-04-16 20:49:34 +0000"
     },
     "done": true
   },
@@ -564,6 +588,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framed_slab_corner": {
+    "criteria": {
+      "hasFramedSlab": "2025-04-16 20:49:34 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/motion_activated_light": {
     "criteria": {
       "has_stick": "2025-04-16 13:12:02 +0000"
@@ -585,6 +615,12 @@
   "infernalexp:recipes/redstone/smooth_dimstone_button": {
     "criteria": {
       "has_smooth_dimstone": "2025-04-16 10:39:47 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_slab_rotate_to_framed_panel": {
+    "criteria": {
+      "has_framed_slab": "2025-04-16 20:49:34 +0000"
     },
     "done": true
   },
