@@ -6713,3 +6713,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Apr2025 20:33:43.980] [Worker-Main-5/DEBUG] [mixin/]: Mixing access.SurfaceRuleContextAccess from byg.mixins.json into net.minecraft.world.level.levelgen.SurfaceRules$Context
 [16Apr2025 20:38:09.952] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Apr2025 20:38:09.987] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 20:41:42.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pedrosanxez: Set the weather to clear]
+[16Apr2025 20:41:45.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pedrosanxez: Set the time to 1000]
+[16Apr2025 20:43:09.908] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 20:43:09.936] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 20:46:49.252] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pedrosanxez: Set the weather to clear]
+[16Apr2025 20:48:09.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 20:48:09.922] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
