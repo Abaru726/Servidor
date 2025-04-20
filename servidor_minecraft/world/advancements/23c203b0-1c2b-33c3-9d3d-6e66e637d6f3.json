@@ -11,15 +11,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-20 12:02:56 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_white_wool": "2025-04-20 12:02:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-04-16 13:12:02 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-20 12:02:56 +0000"
+    },
+    "done": true
+  },
   "infernalexp:recipes/redstone/smooth_glowstone_button": {
     "criteria": {
       "has_smooth_glowstone": "2025-04-16 10:39:47 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_cube": {
+    "criteria": {
+      "hasPlanks": "2025-04-20 12:00:10 +0000"
     },
     "done": true
   },
@@ -35,9 +59,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-20 12:02:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-16 20:13:05 +0000"
+    },
+    "done": true
+  },
+  "dramaticdoors:recipes/redstone/tall_chipped_oak_door_12": {
+    "criteria": {
+      "has_items": "2025-04-20 11:59:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-04-20 12:02:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-20 12:02:56 +0000"
     },
     "done": true
   },
@@ -53,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-20 12:02:56 +0000"
+    },
+    "done": true
+  },
   "beyond_earth:root": {
     "criteria": {
       "tick": "2025-04-16 10:39:48 +0000"
@@ -62,6 +116,18 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-04-16 13:12:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2025-04-20 12:00:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-20 12:02:56 +0000"
     },
     "done": true
   },
@@ -117,6 +183,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-04-20 12:02:55 +0000"
+    },
+    "done": true
+  },
   "paraglider:recipes/paraglider/cosmetic/paraglider": {
     "criteria": {
       "has_paragliders": "2025-04-15 18:57:53 +0000"
@@ -141,6 +213,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-20 12:02:56 +0000"
+    },
+    "done": true
+  },
   "infernalexp:recipes/combat/blindsight_tongue_whip": {
     "criteria": {
       "has_molten_gold_cluster": "2025-04-16 10:39:47 +0000"
@@ -150,6 +228,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2025-04-16 20:13:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-04-20 12:00:10 +0000"
     },
     "done": true
   },
@@ -207,6 +291,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-20 12:02:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-04-16 13:12:02 +0000"
@@ -222,6 +312,12 @@
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2025-04-16 10:39:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-20 12:02:56 +0000"
     },
     "done": true
   },
@@ -255,6 +351,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-04-20 12:02:55 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_acacia_fence": {
     "criteria": {
       "has_stick": "2025-04-16 13:12:02 +0000"
@@ -285,6 +387,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/laser_block": {
+    "criteria": {
+      "has_stone": "2025-04-20 12:02:03 +0000"
+    },
+    "done": true
+  },
   "infernalexp:recipes/redstone/smooth_glowstone_pressure_plate": {
     "criteria": {
       "has_smooth_glowstone": "2025-04-16 10:39:47 +0000"
@@ -294,6 +402,12 @@
   "tombstone:adventure/easter": {
     "criteria": {
       "coded_trigger": "2025-04-16 10:39:47 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_white_wool": "2025-04-20 12:02:56 +0000"
     },
     "done": true
   },
@@ -321,6 +435,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-04-20 12:02:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2025-04-16 13:12:02 +0000"
@@ -336,6 +456,12 @@
   "securitycraft:recipes/securitycraft/reinforced_spruce_fence_gate": {
     "criteria": {
       "has_stick": "2025-04-16 13:12:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-20 12:02:56 +0000"
     },
     "done": true
   },
@@ -375,6 +501,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_red": {
+    "criteria": {
+      "has_red_wool": "2025-04-20 12:02:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-16 20:13:05 +0000"
@@ -405,6 +537,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-20 12:02:56 +0000"
+    },
+    "done": true
+  },
   "byg:root": {
     "criteria": {
       "tick": "2025-04-15 18:47:51 +0000"
@@ -432,6 +570,12 @@
   "framedblocks:recipes/framed_blocks/framed_trapdoor": {
     "criteria": {
       "hasFramedSlab": "2025-04-16 20:49:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-04-20 12:02:03 +0000"
     },
     "done": true
   },
@@ -516,6 +660,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-20 12:02:56 +0000"
+    },
+    "done": true
+  },
   "infernalexp:recipes/food/cured_jerky": {
     "criteria": {
       "has_soul_salt_clump": "2025-04-16 10:39:47 +0000"
@@ -558,9 +708,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-04-20 12:00:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-04-16 20:10:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-04-20 12:02:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-04-20 12:02:55 +0000"
     },
     "done": true
   },
@@ -612,6 +780,12 @@
     },
     "done": true
   },
+  "comforts:hammock_red": {
+    "criteria": {
+      "has_red_wool": "2025-04-20 12:02:55 +0000"
+    },
+    "done": true
+  },
   "infernalexp:recipes/redstone/smooth_dimstone_button": {
     "criteria": {
       "has_smooth_dimstone": "2025-04-16 10:39:47 +0000"
@@ -654,6 +828,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-20 12:02:56 +0000"
+    },
+    "done": true
+  },
   "paraglider:recipes/paraglider/cosmetic/deku_leaf": {
     "criteria": {
       "has_paragliders": "2025-04-15 18:57:53 +0000"
@@ -663,6 +843,12 @@
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-04-16 10:39:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-04-20 12:02:56 +0000"
     },
     "done": true
   },
@@ -726,6 +912,18 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/upgrades/wood_to_copper_chest_upgrade": {
+    "criteria": {
+      "has_item": "2025-04-20 12:00:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-20 12:02:56 +0000"
+    },
+    "done": true
+  },
   "byg:biomepedia_gift": {
     "criteria": {
       "tick": "2025-04-15 18:47:51 +0000"
@@ -735,6 +933,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-04-16 20:37:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-20 12:02:56 +0000"
     },
     "done": true
   },

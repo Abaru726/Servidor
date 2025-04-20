@@ -2276,3 +2276,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [20Apr2025 11:54:05.163] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 23c203b0-1c2b-33c3-9d3d-6e66e637d6f3
 [20Apr2025 11:54:06.150] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 23c203b0-1c2b-33c3-9d3d-6e66e637d6f3
 [20Apr2025 11:54:06.155] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pedrosanxez (23c203b0-1c2b-33c3-9d3d-6e66e637d6f3) successfully connected to voice chat
+[20Apr2025 12:05:38.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pedrosanxez: Set the time to 1000]
+[20Apr2025 12:09:00.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pedrosanxez has made the advancement [Bonfire Lit]
