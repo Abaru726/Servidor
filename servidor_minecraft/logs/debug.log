@@ -6712,3 +6712,18 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [21Apr2025 15:40:39.572] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Apr2025 15:40:39.599] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Apr2025 15:42:14.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pedrosanxez: Set the weather to clear]
+[21Apr2025 15:45:39.573] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Apr2025 15:45:39.602] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Apr2025 15:47:41.248] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pedrosanxez: Set the weather to clear]
+[21Apr2025 15:49:46.407] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pedrosanxez has made the advancement [Stone Age]
+[21Apr2025 15:49:59.198] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pedrosanxez: Set the time to 1000]
+[21Apr2025 15:50:39.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Apr2025 15:50:39.602] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Apr2025 15:52:47.548] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pedrosanxez: Set the weather to clear]
+[21Apr2025 15:55:39.575] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Apr2025 15:55:39.602] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Apr2025 15:58:04.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pedrosanxez: Set the weather to clear]
+[21Apr2025 15:59:58.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pedrosanxez: Set the time to 1000]
+[21Apr2025 16:00:39.573] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Apr2025 16:00:39.603] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Apr2025 16:03:10.023] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pedrosanxez: Set the weather to clear]
