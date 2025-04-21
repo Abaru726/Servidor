@@ -597,6 +597,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-04-21 18:47:29 +0000"
+    },
+    "done": true
+  },
   "infernalexp:recipes/redstone/soul_slate_button": {
     "criteria": {
       "has_soul_slate": "2025-04-16 10:39:47 +0000"
@@ -638,6 +644,12 @@
       "has_planks": "2025-04-21 15:58:42 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-04-21 18:47:29 +0000"
+    },
+    "done": false
   },
   "paraglider:recipes/paraglider/cosmetic/deku_leaf": {
     "criteria": {
@@ -1134,6 +1146,12 @@
   "securitycraft:recipes/securitycraft/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2025-04-21 15:49:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-04-21 18:47:29 +0000"
     },
     "done": true
   },

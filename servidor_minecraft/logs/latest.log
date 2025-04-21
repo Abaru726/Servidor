@@ -2278,3 +2278,19 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [21Apr2025 18:30:11.910] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 23c203b0-1c2b-33c3-9d3d-6e66e637d6f3
 [21Apr2025 18:30:12.923] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 23c203b0-1c2b-33c3-9d3d-6e66e637d6f3
 [21Apr2025 18:30:12.929] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pedrosanxez (23c203b0-1c2b-33c3-9d3d-6e66e637d6f3) successfully connected to voice chat
+[21Apr2025 18:47:29.684] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pedrosanxez has made the advancement [Monster Hunter]
+[21Apr2025 18:52:24.851] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pedrosanxez lost connection: Disconnected
+[21Apr2025 18:52:24.851] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pedrosanxez left the game
+[21Apr2025 18:52:24.854] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pedrosanxez
+[21Apr2025 18:52:51.128] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer/]: Caught previously unhandled exception :
+java.lang.NoClassDefFoundError: org/jline/terminal/Terminal$MouseTracking
+	at org.jline.reader.impl.LineReaderImpl.doCleanup(LineReaderImpl.java:2432) ~[jline-reader-3.12.1.jar%2312!/:?]
+	at org.jline.reader.impl.LineReaderImpl.cleanup(LineReaderImpl.java:2419) ~[jline-reader-3.12.1.jar%2312!/:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:648) ~[jline-reader-3.12.1.jar%2312!/:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:418) ~[jline-reader-3.12.1.jar%2312!/:?]
+	at net.minecraftforge.server.console.TerminalHandler.handleCommands(TerminalHandler.java:46) ~[forge-1.18.2-40.2.21-universal.jar%23112!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:92) ~[server-1.18.2-20220404.173914-srg.jar%23107!/:?]
+Caused by: java.lang.ClassNotFoundException: org.jline.terminal.Terminal$MouseTracking
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-1.0.8.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	... 6 more
