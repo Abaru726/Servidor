@@ -669,6 +669,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hanging_sign_hexerei/mahogany": {
+    "criteria": {
+      "has_plank": "2025-04-21 18:40:05 +0000"
+    },
+    "done": true
+  },
   "mca:root": {
     "criteria": {
       "village_taiga": "2025-04-16 12:56:00 +0000"
@@ -969,6 +975,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_hexerei/mahogany": {
+    "criteria": {
+      "has_plank": "2025-04-21 18:40:05 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/oak_beam": {
     "criteria": {
       "has_stripped_log": "2025-04-21 16:06:53 +0000"
@@ -1098,6 +1110,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-04-16 20:10:05 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/building_blocks/cika_planks": {
+    "criteria": {
+      "has_logs": "2025-04-21 18:33:10 +0000"
     },
     "done": true
   },
