@@ -789,6 +789,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-04-21 16:26:54 +0000"
+    },
+    "done": false
+  },
   "framedblocks:recipes/framed_blocks/framed_cube": {
     "criteria": {
       "hasPlanks": "2025-04-20 12:00:10 +0000"
@@ -930,6 +936,12 @@
   "supplementaries:recipes/hanging_sign_minecraft/spruce": {
     "criteria": {
       "has_plank": "2025-04-21 15:58:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2025-04-21 16:23:06 +0000"
     },
     "done": true
   },
@@ -1281,6 +1293,12 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2025-04-16 20:13:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-04-21 16:26:54 +0000"
     },
     "done": true
   },
