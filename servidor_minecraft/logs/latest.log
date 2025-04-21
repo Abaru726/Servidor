@@ -2287,3 +2287,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [21Apr2025 15:58:04.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pedrosanxez: Set the weather to clear]
 [21Apr2025 15:59:58.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pedrosanxez: Set the time to 1000]
 [21Apr2025 16:03:10.023] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pedrosanxez: Set the weather to clear]
+[21Apr2025 16:07:56.660] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pedrosanxez has made the advancement [Easter Egg Searcher]
+[21Apr2025 16:08:18.997] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pedrosanxez: Set the weather to clear]
+[21Apr2025 16:09:46.250] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pedrosanxez: Set the time to 1000]
+[21Apr2025 16:13:29.872] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pedrosanxez: Set the weather to clear]
