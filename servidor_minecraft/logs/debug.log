@@ -6714,3 +6714,437 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Apr2025 12:07:19.277] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [26Apr2025 12:12:19.240] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Apr2025 12:12:19.270] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 12:17:19.240] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 12:17:19.270] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 12:19:02.504] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: flashlight state=true
+[26Apr2025 12:19:12.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pedrosanxez: Set the time to 13000]
+[26Apr2025 12:19:25.597] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:25.597] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:25.599] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=1, freq=0.50179446
+[26Apr2025 12:19:25.599] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:26.517] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:26.518] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:26.518] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=1, freq=0.50179446
+[26Apr2025 12:19:26.518] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:27.291] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:27.291] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:27.292] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=2, freq=0.5317591
+[26Apr2025 12:19:27.292] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:27.971] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:27.971] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:27.971] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=3, freq=0.5635131
+[26Apr2025 12:19:27.971] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:28.509] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:28.509] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:28.510] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=4, freq=0.59716326
+[26Apr2025 12:19:28.510] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:31.448] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:31.448] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:31.448] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=1, freq=0.50179446
+[26Apr2025 12:19:31.448] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:31.954] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:31.954] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:31.954] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=2, freq=0.5317591
+[26Apr2025 12:19:31.954] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:32.185] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:32.185] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:32.185] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=3, freq=0.5635131
+[26Apr2025 12:19:32.185] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:32.571] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:32.572] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:32.572] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=4, freq=0.59716326
+[26Apr2025 12:19:32.572] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:33.408] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:33.408] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:33.408] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=2, freq=0.5317591
+[26Apr2025 12:19:33.408] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:33.770] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:33.770] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:33.770] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=1, freq=0.50179446
+[26Apr2025 12:19:33.770] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:35.080] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:35.080] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:35.080] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=2, freq=0.5317591
+[26Apr2025 12:19:35.080] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:35.138] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:35.138] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:35.138] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=3, freq=0.5635131
+[26Apr2025 12:19:35.138] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:35.687] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:35.688] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:35.688] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=3, freq=0.5635131
+[26Apr2025 12:19:35.688] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:36.236] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:36.236] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:36.236] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=4, freq=0.59716326
+[26Apr2025 12:19:36.236] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:36.695] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:36.695] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:36.695] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=1, freq=0.50179446
+[26Apr2025 12:19:36.695] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:37.089] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:37.089] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:37.089] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=1, freq=0.50179446
+[26Apr2025 12:19:37.089] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:38.068] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:38.068] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:38.068] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=1, freq=0.50179446
+[26Apr2025 12:19:38.069] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:38.268] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:38.268] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:38.268] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=1, freq=0.50179446
+[26Apr2025 12:19:38.269] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:38.979] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:38.979] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:38.979] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=3, freq=0.5635131
+[26Apr2025 12:19:38.979] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:39.333] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:39.334] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:39.334] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=13, freq=1.006456
+[26Apr2025 12:19:39.334] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:39.704] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:39.705] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:39.705] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=13, freq=1.006456
+[26Apr2025 12:19:39.705] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:40.291] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:40.291] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:40.291] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=13, freq=1.006456
+[26Apr2025 12:19:40.291] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:40.844] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:40.845] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:40.845] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=11, freq=0.89622414
+[26Apr2025 12:19:40.845] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:41.284] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:41.284] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:41.284] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=13, freq=1.006456
+[26Apr2025 12:19:41.284] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:41.558] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:41.558] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:41.558] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=13, freq=1.006456
+[26Apr2025 12:19:41.558] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:42.342] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:42.342] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:42.342] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=14, freq=1.0665566
+[26Apr2025 12:19:42.342] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:42.988] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:42.988] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:42.988] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=15, freq=1.1302459
+[26Apr2025 12:19:42.988] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:43.802] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:43.802] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:43.802] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=1, freq=0.50179446
+[26Apr2025 12:19:43.802] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:44.145] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:44.145] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:44.145] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=2, freq=0.5317591
+[26Apr2025 12:19:44.145] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:44.369] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:44.369] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:44.369] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=3, freq=0.5635131
+[26Apr2025 12:19:44.369] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:44.654] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:44.654] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:44.654] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=4, freq=0.59716326
+[26Apr2025 12:19:44.654] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:44.887] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:44.887] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:44.887] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=5, freq=0.6328229
+[26Apr2025 12:19:44.887] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:45.185] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:45.185] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:45.185] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=6, freq=0.67061186
+[26Apr2025 12:19:45.185] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:45.187] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:45.187] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:45.187] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=7, freq=0.7106575
+[26Apr2025 12:19:45.187] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:45.681] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:45.681] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:45.681] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=8, freq=0.7530944
+[26Apr2025 12:19:45.681] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:45.995] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:45.995] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:45.995] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=9, freq=0.7980654
+[26Apr2025 12:19:45.995] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:46.240] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:46.240] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:46.240] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=10, freq=0.84572184
+[26Apr2025 12:19:46.240] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:47.027] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:47.028] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:47.028] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=11, freq=0.89622414
+[26Apr2025 12:19:47.028] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:47.536] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:47.536] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:47.536] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=12, freq=0.94974214
+[26Apr2025 12:19:47.536] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:47.943] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:47.943] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:47.943] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=13, freq=1.006456
+[26Apr2025 12:19:47.943] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:48.273] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:48.273] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:48.273] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=14, freq=1.0665566
+[26Apr2025 12:19:48.273] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:48.596] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:48.596] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:48.596] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=15, freq=1.1302459
+[26Apr2025 12:19:48.596] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:48.853] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:48.853] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:48.853] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=16, freq=1.1977385
+[26Apr2025 12:19:48.853] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:49.107] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:49.107] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:49.107] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=17, freq=1.2692615
+[26Apr2025 12:19:49.107] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:49.357] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:49.357] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:49.357] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=18, freq=1.3450555
+[26Apr2025 12:19:49.357] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:49.599] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:49.599] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:49.599] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=19, freq=1.4253755
+[26Apr2025 12:19:49.599] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:51.257] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:51.257] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:51.257] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=11, freq=0.89622414
+[26Apr2025 12:19:51.257] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:51.979] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:51.979] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:51.979] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=1, freq=0.50179446
+[26Apr2025 12:19:51.979] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:53.395] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:53.395] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:53.395] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=1, freq=0.50179446
+[26Apr2025 12:19:53.395] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:54.983] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:54.983] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:54.983] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=1, freq=0.50179446
+[26Apr2025 12:19:54.984] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:55.556] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:55.556] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:55.556] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=4, freq=0.59716326
+[26Apr2025 12:19:55.556] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:56.107] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:56.107] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:56.107] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=5, freq=0.6328229
+[26Apr2025 12:19:56.107] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:56.700] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:56.700] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:56.700] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=6, freq=0.67061186
+[26Apr2025 12:19:56.700] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:57.719] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:57.719] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:57.719] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=1, freq=0.50179446
+[26Apr2025 12:19:57.719] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:58.318] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:58.318] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:58.319] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=5, freq=0.6328229
+[26Apr2025 12:19:58.319] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:58.874] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:58.874] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:58.874] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=6, freq=0.67061186
+[26Apr2025 12:19:58.874] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:59.479] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:59.479] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:59.479] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=7, freq=0.7106575
+[26Apr2025 12:19:59.479] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:59.984] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:19:59.984] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:19:59.984] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=6, freq=0.67061186
+[26Apr2025 12:19:59.984] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:00.567] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:20:00.567] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:00.568] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=5, freq=0.6328229
+[26Apr2025 12:20:00.568] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:01.173] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:20:01.173] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:01.173] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=1, freq=0.50179446
+[26Apr2025 12:20:01.173] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:01.921] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:20:01.922] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:01.922] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=5, freq=0.6328229
+[26Apr2025 12:20:01.922] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:02.591] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:20:02.591] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:02.591] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=6, freq=0.67061186
+[26Apr2025 12:20:02.591] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:03.391] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:20:03.391] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:03.391] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=7, freq=0.7106575
+[26Apr2025 12:20:03.391] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:04.221] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:20:04.221] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:04.221] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=1, freq=0.50179446
+[26Apr2025 12:20:04.221] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:07.730] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:20:07.730] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:07.730] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=25, freq=2.0186627
+[26Apr2025 12:20:07.730] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:08.958] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:20:08.958] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:08.958] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=1, freq=0.50179446
+[26Apr2025 12:20:08.958] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:09.295] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:20:09.295] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:09.295] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=2, freq=0.5317591
+[26Apr2025 12:20:09.295] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:09.721] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:20:09.721] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:09.721] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=3, freq=0.5635131
+[26Apr2025 12:20:09.721] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:10.444] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:20:10.444] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:10.444] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=25, freq=2.0186627
+[26Apr2025 12:20:10.444] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:10.717] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:20:10.718] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:10.718] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=25, freq=2.0186627
+[26Apr2025 12:20:10.718] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:11.390] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:20:11.390] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:11.390] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=25, freq=2.0186627
+[26Apr2025 12:20:11.390] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:11.568] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:20:11.569] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:11.569] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=25, freq=2.0186627
+[26Apr2025 12:20:11.569] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:12.033] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:20:12.033] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:12.033] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=25, freq=2.0186627
+[26Apr2025 12:20:12.033] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:12.231] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:20:12.231] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:12.231] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=25, freq=2.0186627
+[26Apr2025 12:20:12.231] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:12.658] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:20:12.658] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:12.658] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=25, freq=2.0186627
+[26Apr2025 12:20:12.658] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:12.842] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:20:12.842] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:12.842] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=25, freq=2.0186627
+[26Apr2025 12:20:12.842] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:13.024] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:20:13.024] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:13.024] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=25, freq=2.0186627
+[26Apr2025 12:20:13.024] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:13.190] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:20:13.190] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:13.190] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=25, freq=2.0186627
+[26Apr2025 12:20:13.190] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:13.376] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:20:13.376] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:13.376] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=25, freq=2.0186627
+[26Apr2025 12:20:13.376] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:13.547] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:20:13.547] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:13.547] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=25, freq=2.0186627
+[26Apr2025 12:20:13.547] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:13.742] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:20:13.742] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:13.742] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=25, freq=2.0186627
+[26Apr2025 12:20:13.742] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:19.820] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:20:19.820] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:19.820] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=2, freq=0.5317591
+[26Apr2025 12:20:19.820] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:20.473] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:20:20.473] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:20.473] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=3, freq=0.5635131
+[26Apr2025 12:20:20.473] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:21.101] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:20:21.101] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:21.101] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=4, freq=0.59716326
+[26Apr2025 12:20:21.101] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:21.543] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:20:21.543] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:21.543] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=5, freq=0.6328229
+[26Apr2025 12:20:21.543] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:21.880] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:20:21.880] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:21.880] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=5, freq=0.6328229
+[26Apr2025 12:20:21.880] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:22.186] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:20:22.186] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:22.186] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=6, freq=0.67061186
+[26Apr2025 12:20:22.187] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:27.636] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:20:27.636] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:27.636] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=3, freq=0.5635131
+[26Apr2025 12:20:27.636] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:28.320] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:20:28.320] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:28.320] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=4, freq=0.59716326
+[26Apr2025 12:20:28.320] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:28.619] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:20:28.619] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:28.619] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=4, freq=0.59716326
+[26Apr2025 12:20:28.619] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:28.874] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:20:28.874] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:28.874] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=5, freq=0.6328229
+[26Apr2025 12:20:28.874] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:29.220] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:20:29.220] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:29.221] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=3, freq=0.5635131
+[26Apr2025 12:20:29.221] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:29.555] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:20:29.555] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:29.555] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=3, freq=0.5635131
+[26Apr2025 12:20:29.555] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:32.681] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:20:32.681] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:32.681] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=1, freq=0.50179446
+[26Apr2025 12:20:32.681] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:35.302] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:20:35.302] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:35.302] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=2, freq=0.5317591
+[26Apr2025 12:20:35.302] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:35.554] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:20:35.554] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:35.555] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=3, freq=0.5635131
+[26Apr2025 12:20:35.555] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:35.985] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:20:35.986] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:35.986] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=4, freq=0.59716326
+[26Apr2025 12:20:35.986] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:37.287] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:20:37.287] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:37.287] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=4, freq=0.59716326
+[26Apr2025 12:20:37.287] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:39.369] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:20:39.369] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:39.369] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=4, freq=0.59716326
+[26Apr2025 12:20:39.369] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:40.987] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:20:40.987] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:40.987] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=1, freq=0.50179446
+[26Apr2025 12:20:40.987] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:41.704] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:20:41.705] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:41.705] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=2, freq=0.5317591
+[26Apr2025 12:20:41.705] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:42.059] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:20:42.059] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:42.059] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=3, freq=0.5635131
+[26Apr2025 12:20:42.059] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:42.341] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:20:42.341] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:42.341] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=4, freq=0.59716326
+[26Apr2025 12:20:42.341] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:42.706] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:20:42.706] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:42.706] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=5, freq=0.6328229
+[26Apr2025 12:20:42.706] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:43.009] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:20:43.010] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:43.010] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=3, freq=0.5635131
+[26Apr2025 12:20:43.010] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:43.418] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundGuitarPacket
+[26Apr2025 12:20:43.418] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:20:43.418] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: play note, fret=2, freq=0.5317591
+[26Apr2025 12:20:43.418] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[26Apr2025 12:22:19.239] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 12:22:19.267] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
