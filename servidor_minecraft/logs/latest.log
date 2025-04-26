@@ -2266,3 +2266,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Apr2025 19:37:14.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pedrosanxez has made the advancement [Who is Cutting Onions?]
 [26Apr2025 19:49:17.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pedrosanxez: Set the time to 1000]
 [26Apr2025 19:59:10.396] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pedrosanxez: Set the time to 1000]
+[26Apr2025 20:20:16.283] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pedrosanxez moved too quickly! 0.19999998807907104,12.0,0.05986427418633866
+[26Apr2025 20:24:14.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pedrosanxez: Set the weather to clear]
