@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-04-26 12:23:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2025-04-20 12:02:56 +0000"
@@ -131,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-04-26 12:23:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-04-16 20:13:05 +0000"
@@ -150,6 +162,12 @@
       "has_warped_fungus": "2025-04-16 10:39:47 +0000",
       "has_bowl": "2025-04-16 10:39:47 +0000",
       "has_luminous_fungus": "2025-04-16 10:39:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-04-26 12:23:33 +0000"
     },
     "done": true
   },
@@ -357,6 +375,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/flour": {
+    "criteria": {
+      "has_grain": "2025-04-26 12:23:33 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/connectedglass/borderless_glass_pane1": {
     "criteria": {
       "recipe_condition": "2025-04-26 12:03:48 +0000"
@@ -390,6 +414,12 @@
   "croptopia:recipes/shaped_water_bottle": {
     "criteria": {
       "has_water": "2025-04-16 20:36:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-04-26 12:23:33 +0000"
     },
     "done": true
   },
@@ -687,6 +717,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-04-26 12:23:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-04-21 15:49:49 +0000"
@@ -720,6 +756,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-04-26 12:03:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_chainmail_helmet": "2025-04-26 12:29:32 +0000"
     },
     "done": true
   },
@@ -927,6 +969,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/documentation": {
+    "criteria": {
+      "has_crop": "2025-04-26 12:23:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-04-26 12:03:48 +0000"
@@ -984,6 +1032,12 @@
   "securitycraft:recipes/securitycraft/reinforced_birch_fence": {
     "criteria": {
       "has_stick": "2025-04-16 13:12:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2025-04-26 12:29:34 +0000"
     },
     "done": true
   },
@@ -1200,6 +1254,18 @@
   "byg:recipes/building_blocks/cika_planks": {
     "criteria": {
       "has_logs": "2025-04-21 18:33:10 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile_chestplate": {
+    "criteria": {
+      "crocodile_chestplate": "2025-04-26 12:25:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_chainmail_helmet": "2025-04-26 12:29:32 +0000"
     },
     "done": true
   },
@@ -1569,6 +1635,12 @@
   "dungeons_arise:find_infested_temple_map": {
     "criteria": {
       "find_map": "2025-04-16 20:05:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2025-04-26 12:29:34 +0000"
     },
     "done": true
   },
