@@ -2265,3 +2265,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27Apr2025 09:13:32.440] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pedrosanxez (23c203b0-1c2b-33c3-9d3d-6e66e637d6f3) successfully connected to voice chat
 [27Apr2025 09:13:54.424] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pedrosanxez: Set the weather to clear]
 [27Apr2025 09:18:59.445] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pedrosanxez: Set the weather to clear]
+[27Apr2025 09:24:08.823] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pedrosanxez: Set the weather to clear]
+[27Apr2025 09:24:45.672] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pedrosanxez: Set the time to 1000]
+[27Apr2025 09:29:21.855] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [pedrosanxez: Set the weather to clear]
