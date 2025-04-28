@@ -517,6 +517,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-04-28 17:10:17 +0000",
       "minecraft:zombie": "2025-04-21 18:47:29 +0000"
     },
     "done": false
@@ -1815,6 +1816,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-04-26 19:52:22 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-04-28 17:09:36 +0000"
     },
     "done": true
   },
