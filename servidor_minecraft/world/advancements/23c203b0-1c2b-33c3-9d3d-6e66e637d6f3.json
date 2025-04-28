@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_polished_deepslate_slab": {
+    "criteria": {
+      "has_block": "2025-04-28 17:23:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-04-16 20:13:05 +0000"
@@ -269,6 +275,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/keypad_door_item": {
+    "criteria": {
+      "has_reinforced_door": "2025-04-28 17:16:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_red_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-26 19:52:22 +0000"
@@ -362,6 +374,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2025-04-20 12:02:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_deepslate_brick_stairs_from_reinforced_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_polished_deepslate": "2025-04-28 17:23:41 +0000"
     },
     "done": true
   },
@@ -582,6 +600,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_polished_deepslate_slab_from_reinforced_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_polished_deepslate": "2025-04-28 17:23:41 +0000"
+    },
+    "done": true
+  },
   "orcz:orczchallenge": {
     "criteria": {
       "orczchallenge": "2025-04-16 10:39:48 +0000"
@@ -678,6 +702,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_deepslate_brick_wall_from_reinforced_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_polished_deepslate": "2025-04-28 17:23:41 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_white": {
     "criteria": {
       "has_white_wool": "2025-04-20 12:02:56 +0000"
@@ -693,6 +723,18 @@
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-04-20 12:02:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_deepslate_tiles_from_reinforced_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_polished_deepslate": "2025-04-28 17:23:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_polished_deepslate_stairs_from_reinforced_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_polished_deepslate": "2025-04-28 17:23:41 +0000"
     },
     "done": true
   },
@@ -1016,6 +1058,12 @@
       "minecraft:plains": "2025-04-16 12:54:10 +0000"
     },
     "done": false
+  },
+  "securitycraft:recipes/securitycraft/reinforced_polished_deepslate_stairs": {
+    "criteria": {
+      "has_block": "2025-04-28 17:23:41 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
@@ -1507,6 +1555,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_deepslate_bricks": {
+    "criteria": {
+      "has_block": "2025-04-28 17:23:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_slab": {
     "criteria": {
       "has_red_nether_bricks": "2025-04-26 19:36:39 +0000"
@@ -1561,6 +1615,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_deepslate_tiles": {
+    "criteria": {
+      "has_block": "2025-04-28 17:23:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-04-20 12:02:56 +0000"
@@ -1609,6 +1669,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_deepslate_brick_slab_from_reinforced_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_polished_deepslate": "2025-04-28 17:23:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2025-04-16 20:07:45 +0000"
@@ -1648,6 +1714,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-04-20 12:02:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_polished_deepslate_wall": {
+    "criteria": {
+      "has_block": "2025-04-28 17:23:41 +0000"
     },
     "done": true
   },
@@ -1747,6 +1819,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_deepslate_tile_wall_from_reinforced_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_polished_deepslate": "2025-04-28 17:23:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-26 19:52:22 +0000"
@@ -1756,6 +1834,12 @@
   "framedblocks:recipes/framed_blocks/framed_slab_corner": {
     "criteria": {
       "hasFramedSlab": "2025-04-16 20:49:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_polished_deepslate_wall_from_reinforced_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_polished_deepslate": "2025-04-28 17:23:41 +0000"
     },
     "done": true
   },
@@ -1780,6 +1864,12 @@
   "securitycraft:recipes/securitycraft/reinforced_yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-26 19:52:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_deepslate_tile_slab_from_reinforced_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_polished_deepslate": "2025-04-28 17:23:41 +0000"
     },
     "done": true
   },
@@ -1987,6 +2077,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/scanner_door_item": {
+    "criteria": {
+      "has_reinforced_door": "2025-04-28 17:16:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/sc_manual": {
     "criteria": {
       "has_wood": "2025-04-21 16:06:53 +0000"
@@ -2044,6 +2140,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-26 19:36:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_deepslate_tile_stairs_from_reinforced_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_polished_deepslate": "2025-04-28 17:23:41 +0000"
     },
     "done": true
   },
@@ -2380,6 +2482,12 @@
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-26 19:52:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_deepslate_bricks_from_reinforced_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_polished_deepslate": "2025-04-28 17:23:41 +0000"
     },
     "done": true
   },
