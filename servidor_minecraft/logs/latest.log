@@ -4223,3 +4223,46 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Apr2025 17:09:48.108] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 23c203b0-1c2b-33c3-9d3d-6e66e637d6f3
 [28Apr2025 17:09:49.103] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 23c203b0-1c2b-33c3-9d3d-6e66e637d6f3
 [28Apr2025 17:09:49.112] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pedrosanxez (23c203b0-1c2b-33c3-9d3d-6e66e637d6f3) successfully connected to voice chat
+[28Apr2025 17:27:35.260] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pedrosanxez lost connection: Disconnected
+[28Apr2025 17:27:35.261] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pedrosanxez left the game
+[28Apr2025 17:27:35.264] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pedrosanxez
+[28Apr2025 17:27:46.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[28Apr2025 17:27:46.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[28Apr2025 17:27:46.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[28Apr2025 17:27:47.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[28Apr2025 17:27:48.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/beyond_earth:deimos_orbit
+[28Apr2025 17:27:48.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/beyond_earth:mars_orbit
+[28Apr2025 17:27:48.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[28Apr2025 17:27:48.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/beyond_earth:mars
+[28Apr2025 17:27:48.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/beyond_earth:moon_orbit
+[28Apr2025 17:27:48.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/beyond_earth:earth_orbit
+[28Apr2025 17:27:48.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/beyond_earth:phobos
+[28Apr2025 17:27:48.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/beyond_earth:mercury_orbit
+[28Apr2025 17:27:48.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/beyond_earth:glacio_orbit
+[28Apr2025 17:27:48.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/beyond_earth:moon
+[28Apr2025 17:27:48.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/beyond_earth:deimos
+[28Apr2025 17:27:48.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/beyond_earth:mercury
+[28Apr2025 17:27:48.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/beyond_earth:venus_orbit
+[28Apr2025 17:27:48.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/beyond_earth:phobos_orbit
+[28Apr2025 17:27:48.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/beyond_earth:venus
+[28Apr2025 17:27:48.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[28Apr2025 17:27:48.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/beyond_earth:glacio
+[28Apr2025 17:27:48.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[28Apr2025 17:27:48.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (deimos_orbit): All chunks are saved
+[28Apr2025 17:27:48.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[28Apr2025 17:27:48.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[28Apr2025 17:27:48.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[28Apr2025 17:27:48.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[28Apr2025 17:27:48.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[28Apr2025 17:27:48.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (phobos): All chunks are saved
+[28Apr2025 17:27:48.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[28Apr2025 17:27:48.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[28Apr2025 17:27:48.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[28Apr2025 17:27:48.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (deimos): All chunks are saved
+[28Apr2025 17:27:48.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[28Apr2025 17:27:48.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[28Apr2025 17:27:48.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (phobos_orbit): All chunks are saved
+[28Apr2025 17:27:48.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[28Apr2025 17:27:48.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[28Apr2025 17:27:48.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[28Apr2025 17:27:48.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

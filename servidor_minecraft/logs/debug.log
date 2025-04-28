@@ -11767,3 +11767,88 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Apr2025 17:19:28.227] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [28Apr2025 17:24:28.194] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Apr2025 17:24:28.227] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Apr2025 17:27:35.260] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pedrosanxez lost connection: Disconnected
+[28Apr2025 17:27:35.261] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pedrosanxez left the game
+[28Apr2025 17:27:35.263] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of pedrosanxez
+[28Apr2025 17:27:35.264] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pedrosanxez
+[28Apr2025 17:27:46.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[28Apr2025 17:27:46.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[28Apr2025 17:27:46.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[28Apr2025 17:27:47.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[28Apr2025 17:27:48.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/beyond_earth:deimos_orbit
+[28Apr2025 17:27:48.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/beyond_earth:mars_orbit
+[28Apr2025 17:27:48.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[28Apr2025 17:27:48.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/beyond_earth:mars
+[28Apr2025 17:27:48.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/beyond_earth:moon_orbit
+[28Apr2025 17:27:48.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/beyond_earth:earth_orbit
+[28Apr2025 17:27:48.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/beyond_earth:phobos
+[28Apr2025 17:27:48.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/beyond_earth:mercury_orbit
+[28Apr2025 17:27:48.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/beyond_earth:glacio_orbit
+[28Apr2025 17:27:48.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/beyond_earth:moon
+[28Apr2025 17:27:48.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/beyond_earth:deimos
+[28Apr2025 17:27:48.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/beyond_earth:mercury
+[28Apr2025 17:27:48.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/beyond_earth:venus_orbit
+[28Apr2025 17:27:48.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/beyond_earth:phobos_orbit
+[28Apr2025 17:27:48.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/beyond_earth:venus
+[28Apr2025 17:27:48.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[28Apr2025 17:27:48.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/beyond_earth:glacio
+[28Apr2025 17:27:48.331] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Apr2025 17:27:48.357] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Apr2025 17:27:48.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[28Apr2025 17:27:48.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (deimos_orbit): All chunks are saved
+[28Apr2025 17:27:48.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[28Apr2025 17:27:48.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[28Apr2025 17:27:48.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[28Apr2025 17:27:48.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[28Apr2025 17:27:48.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[28Apr2025 17:27:48.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (phobos): All chunks are saved
+[28Apr2025 17:27:48.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[28Apr2025 17:27:48.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[28Apr2025 17:27:48.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[28Apr2025 17:27:48.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (deimos): All chunks are saved
+[28Apr2025 17:27:48.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[28Apr2025 17:27:48.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[28Apr2025 17:27:48.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (phobos_orbit): All chunks are saved
+[28Apr2025 17:27:48.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[28Apr2025 17:27:48.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[28Apr2025 17:27:48.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[28Apr2025 17:27:48.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[28Apr2025 17:27:48.414] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[28Apr2025 17:27:48.414] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[28Apr2025 17:27:48.430] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for beyond_earth:moon_orbit
+[28Apr2025 17:27:48.430] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for beyond_earth:moon_orbit
+[28Apr2025 17:27:48.430] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for beyond_earth:mars_orbit
+[28Apr2025 17:27:48.430] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for beyond_earth:mars_orbit
+[28Apr2025 17:27:48.430] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[28Apr2025 17:27:48.430] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[28Apr2025 17:27:48.431] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for beyond_earth:mars
+[28Apr2025 17:27:48.431] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for beyond_earth:mars
+[28Apr2025 17:27:48.431] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for beyond_earth:moon_orbit
+[28Apr2025 17:27:48.431] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for beyond_earth:moon_orbit
+[28Apr2025 17:27:48.431] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for beyond_earth:earth_orbit
+[28Apr2025 17:27:48.431] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for beyond_earth:earth_orbit
+[28Apr2025 17:27:48.432] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for beyond_earth:moon
+[28Apr2025 17:27:48.432] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for beyond_earth:moon
+[28Apr2025 17:27:48.432] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for beyond_earth:mercury_orbit
+[28Apr2025 17:27:48.432] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for beyond_earth:mercury_orbit
+[28Apr2025 17:27:48.432] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for beyond_earth:glacio_orbit
+[28Apr2025 17:27:48.432] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for beyond_earth:glacio_orbit
+[28Apr2025 17:27:48.433] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for beyond_earth:moon
+[28Apr2025 17:27:48.433] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for beyond_earth:moon
+[28Apr2025 17:27:48.433] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for beyond_earth:moon
+[28Apr2025 17:27:48.433] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for beyond_earth:moon
+[28Apr2025 17:27:48.434] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for beyond_earth:mercury
+[28Apr2025 17:27:48.434] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for beyond_earth:mercury
+[28Apr2025 17:27:48.434] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for beyond_earth:venus_orbit
+[28Apr2025 17:27:48.434] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for beyond_earth:venus_orbit
+[28Apr2025 17:27:48.434] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for beyond_earth:moon_orbit
+[28Apr2025 17:27:48.434] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for beyond_earth:moon_orbit
+[28Apr2025 17:27:48.435] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for beyond_earth:venus
+[28Apr2025 17:27:48.435] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for beyond_earth:venus
+[28Apr2025 17:27:48.435] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[28Apr2025 17:27:48.435] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[28Apr2025 17:27:48.435] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for beyond_earth:glacio
+[28Apr2025 17:27:48.435] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for beyond_earth:glacio
+[28Apr2025 17:27:48.437] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[28Apr2025 17:27:48.437] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[28Apr2025 17:27:48.438] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file jei-server.toml changed, sending notifies
