@@ -1,4 +1,10 @@
 {
+  "create:recipes/create.base/crafting/kinetics/mysterious_cuckoo_clock": {
+    "criteria": {
+      "has_item": "2025-04-29 17:28:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-26 19:52:22 +0000"
@@ -10,6 +16,12 @@
       "has_glass": "2025-04-26 19:52:22 +0000"
     },
     "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "1": "2025-04-29 17:21:41 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
