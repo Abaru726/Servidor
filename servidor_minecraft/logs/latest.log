@@ -2692,3 +2692,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Apr2025 17:20:39.767] [Server thread/WARN] [Flashs NPCs/]: Could not find dialogue file hOLA.json, creating it now...
 [29Apr2025 17:21:17.814] [Server thread/WARN] [Flashs NPCs/]: Could not find dialogue file SI.json, creating it now...
 [29Apr2025 17:29:11.450] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pedrosanxez has made the advancement [Ding!]
+[29Apr2025 17:37:23.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pedrosanxez has made the advancement ['Sudos.]
+[29Apr2025 17:37:34.431] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pedrosanxez has made the advancement [Don't talk about this again.]
+[29Apr2025 17:38:29.538] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pedrosanxez has made the advancement [Diamonds!]
